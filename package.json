@@ -40,8 +40,12 @@
         "format": "prettier --write ."
     },
     "keywords": [],
-    "author": "vladmeer",
+    "author": "Jianpu",
     "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Jianpu/polymarket-copytrading-bot.git"
+    },
     "type": "commonjs",
     "description": "",
     "devDependencies": {

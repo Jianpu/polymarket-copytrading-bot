@@ -33,7 +33,7 @@ Before starting, make sure you have:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Jianpu/polymarket-copytrading-bot
 cd polymarket-copytrading-bot
 
 # Install dependencies

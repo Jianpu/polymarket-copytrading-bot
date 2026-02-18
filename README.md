@@ -32,8 +32,7 @@ The Polymarket Copy Trading Bot automatically replicates trades from successful 
 
 #### Clone repository
 ```bash
-git clone https://github.com/RandyTas/polymarket-copytrading-bot
-
+git clone https://github.com/Jianpu/polymarket-copytrading-bot
 cd polymarket-copytrading-bot
 ```
 
@@ -133,4 +132,4 @@ MIT License - See [LICENSE](LICENSE.md) file for details.
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
 
 
-**Support:** For questions or issues, contact via Discord: `randytas`
+**Support:** For questions or issues, open an [issue on GitHub](https://github.com/Jianpu/polymarket-copytrading-bot/issues).
